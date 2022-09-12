@@ -3,7 +3,7 @@
 function App() {
   return (
     <div className="App">
-      <h1>Welcome the First Session of React</h1>
+      <h1>Welcome the First Session of ReactJS</h1>
     </div>
   );
 }
